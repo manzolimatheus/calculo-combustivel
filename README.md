@@ -29,11 +29,11 @@ Com o python instalado, abra um terminal/PowerShell na pasta de destino do proje
 
 Linux:
 
-`python3 index.py`
+`python3 main.py`
       
 Windows:
 
-`python index.py`
+`python main.py`
 
 Você também pode executar abrindo o script em seu editor de código favorito e clicando em executar.
 		
