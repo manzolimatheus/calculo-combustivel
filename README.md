@@ -17,7 +17,7 @@ Simples cálculo de custo de viagem baseado na distância, consumo do veículo e
 
 **👨🏻‍💻 Tecnologias utilizadas**
 
-Para criar o jogo da forca utilizei apenas Python.
+Para criar o jogo da forca utilizamos apenas Python.
 
 <img src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" width="100px">
 
