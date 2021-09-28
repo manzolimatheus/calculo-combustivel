@@ -38,5 +38,5 @@ Windows:
 Você também pode executar abrindo o script em seu editor de código favorito e clicando em executar.
 		
 ## Screenshots
-<img src="https://i.imgur.com/DOVLOsT.png" width="100%">
-<img src="https://i.imgur.com/HatWHpJ.png" width="100%">
+<img src="https://i.imgur.com/OYI1GxA.png" width="100%">
+<img src="https://i.imgur.com/eI0Z75C.png" width="100%">
