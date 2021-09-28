@@ -1,4 +1,4 @@
-import calculo
+from calculo import calculo
 
 
 def menu():
@@ -7,6 +7,7 @@ def menu():
     
     👋 Bem-vindo à calculadora de combustível! 
     
+    👥 Raíne Felix & Matheus Manzoli - 3ºDS
     🔗 Github & Behance: /manzolimatheus
 
     ''')

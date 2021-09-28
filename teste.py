@@ -1,4 +1,3 @@
-
 def teste(recebeu, esperado):
     if recebeu != esperado:
         print(f'❌ Teste fracassou! Esperava: {esperado} | Recebeu: {recebeu}')
